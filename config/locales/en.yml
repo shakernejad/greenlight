@@ -230,7 +230,7 @@ en:
     designs: Custom Designs
     authentication: User Authentication
   footer:
-    powered_by: Powered by zoodclass.ir.
+    powered_by: Powered by %{href}.
   forgot_password:
     subtitle: Forgot Password
     email: Email
